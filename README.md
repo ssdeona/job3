@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-https://dynamic-narwhal-4af79b.netlify.app
+lucent-dango-ad874d.netlify.app
